@@ -60,6 +60,7 @@ public class Project_CompletedStatus extends BaseAPIClass{
 		String txt=driver.findElement(By.xpath("//td[text()='"+prjId+"']/parent::tr[@class='tr']/descendant::td[text()='"+status+"']")).getText();
 		Assert.assertEquals(status, txt);
 		//push
+		//push1
 
     	
     	
