@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-14T16:13:19 IST" name="Default suite" finished-at="2024-08-14T16:13:28 IST" duration-ms="8364">
+    <groups>
+    </groups>
+    <test started-at="2024-08-14T16:13:19 IST" name="Default test" finished-at="2024-08-14T16:13:28 IST" duration-ms="8364">
+      <class name="com.ninja.hrm.api.Project.Project_CompletedStatus">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.ninja.hrm.api.Project.Project_CompletedStatus@4e08711f]" started-at="2024-08-14T16:13:18 IST" name="configBS" finished-at="2024-08-14T16:13:19 IST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method signature="addProjectWithCompletedStatus()[pri:0, instance:com.ninja.hrm.api.Project.Project_CompletedStatus@4e08711f]" started-at="2024-08-14T16:13:19 IST" name="addProjectWithCompletedStatus" finished-at="2024-08-14T16:13:28 IST" duration-ms="8332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProjectWithCompletedStatus -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.ninja.hrm.api.Project.Project_CompletedStatus@4e08711f]" started-at="2024-08-14T16:13:28 IST" name="configAS" finished-at="2024-08-14T16:13:28 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.ninja.hrm.api.Project.Project_CompletedStatus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
